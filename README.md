@@ -4,4 +4,4 @@ Author - Shashank S
 <br>
 Date - 21/12/2025
 <br>
-language - Kannada,english,hindi
+language - Kannada,English,Hindi
